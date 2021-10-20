@@ -1,11 +1,9 @@
 # library_manager
 
 
-## Run the example with Docker
+## Run with Docker
 
 Install Docker from the [download page](https://hub.docker.com/search/?type=edition&offering=community) if you haven't already.
-
-Clone the branch you are interested in.
 
 Open up a terminal at the project root and run:
 
@@ -15,7 +13,7 @@ Open up a terminal at the project root and run:
 
 The images will be built/downloaded and the Docker containers will start.
 
-Once everything is up and running visit `localhost:3003` to use the example.
+Once everything is up and running visit `localhost:3003` to use.
 
 ### Shut down
 
