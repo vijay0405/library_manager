@@ -9,8 +9,8 @@
   "scripts": {
     "start": "node ./index.js"
   },
-  "author": "Yannick Bals",
-  "license": "ISC",
+  "author": "VIJAY",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
     "node-fetch": "^2.3.0"
